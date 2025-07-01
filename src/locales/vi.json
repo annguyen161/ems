@@ -1,0 +1,105 @@
+{
+  "common": {
+    "welcome": "Chào mừng",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "forgotPassword": "Quên mật khẩu",
+    "submit": "Gửi",
+    "cancel": "Hủy",
+    "continue": "Tiếp tục",
+    "skip": "Bỏ qua",
+    "next": "Tiếp theo",
+    "previous": "Trước",
+    "done": "Hoàn thành",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "settings": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "theme": "Giao diện",
+    "lightMode": "Chế độ sáng",
+    "darkMode": "Chế độ tối"
+  },
+  "auth": {
+    "loginTitle": "Chào mừng trở lại",
+    "loginSubtitle": "Đăng nhập vào tài khoản của bạn",
+    "forgotPasswordTitle": "Quên mật khẩu",
+    "forgotPasswordSubtitle": "Nhập email để đặt lại mật khẩu",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "dontHaveAccount": "Chưa có tài khoản?",
+    "signUp": "Đăng ký",
+    "resetPassword": "Đặt lại mật khẩu",
+    "backToLogin": "Quay lại đăng nhập"
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Chào mừng đến với iFactory",
+      "description": "Quản lý hoạt động nhà máy một cách dễ dàng"
+    },
+    "slide2": {
+      "title": "Giám sát thời gian thực",
+      "description": "Theo dõi thiết bị và máy móc trong thời gian thực"
+    },
+    "slide3": {
+      "title": "Báo cáo toàn diện",
+      "description": "Nhận thông tin chi tiết và phân tích dữ liệu"
+    }
+  },
+  "tabs": {
+    "home": "Trang chủ",
+    "report": "Báo cáo",
+    "devices": "Thiết bị",
+    "group": "Nhóm",
+    "setting": "Cài đặt"
+  },
+  "home": {
+    "title": "Bảng điều khiển",
+    "subtitle": "Tổng quan hoạt động nhà máy",
+    "totalDevices": "Tổng thiết bị",
+    "activeDevices": "Thiết bị hoạt động",
+    "alerts": "Cảnh báo",
+    "recentActivity": "Hoạt động gần đây"
+  },
+  "report": {
+    "title": "Báo cáo",
+    "subtitle": "Phân tích và thông tin chi tiết",
+    "dailyReport": "Báo cáo hàng ngày",
+    "weeklyReport": "Báo cáo hàng tuần",
+    "monthlyReport": "Báo cáo hàng tháng",
+    "customReport": "Báo cáo tùy chỉnh"
+  },
+  "devices": {
+    "title": "Thiết bị",
+    "subtitle": "Quản lý các thiết bị được kết nối",
+    "addDevice": "Thêm thiết bị",
+    "deviceStatus": "Trạng thái thiết bị",
+    "online": "Trực tuyến",
+    "offline": "Ngoại tuyến",
+    "maintenance": "Bảo trì"
+  },
+  "group": {
+    "title": "Nhóm",
+    "subtitle": "Tổ chức thiết bị thành nhóm",
+    "createGroup": "Tạo nhóm",
+    "groupName": "Tên nhóm",
+    "addToGroup": "Thêm vào nhóm"
+  },
+  "setting": {
+    "title": "Cài đặt",
+    "subtitle": "Tùy chỉnh trải nghiệm ứng dụng",
+    "profile": "Hồ sơ",
+    "notifications": "Thông báo",
+    "security": "Bảo mật",
+    "about": "Giới thiệu",
+    "version": "Phiên bản",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfService": "Điều khoản dịch vụ"
+  }
+}

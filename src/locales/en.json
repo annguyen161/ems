@@ -1,0 +1,105 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "skip": "Skip",
+    "next": "Next",
+    "previous": "Previous",
+    "done": "Done",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account",
+    "forgotPasswordTitle": "Forgot Password",
+    "forgotPasswordSubtitle": "Enter your email to reset password",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "dontHaveAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "resetPassword": "Reset Password",
+    "backToLogin": "Back to Login"
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Welcome to iFactory",
+      "description": "Manage your factory operations with ease"
+    },
+    "slide2": {
+      "title": "Real-time Monitoring",
+      "description": "Monitor your devices and equipment in real-time"
+    },
+    "slide3": {
+      "title": "Comprehensive Reports",
+      "description": "Get detailed insights and analytics"
+    }
+  },
+  "tabs": {
+    "home": "Home",
+    "report": "Report",
+    "devices": "Devices",
+    "group": "Group",
+    "setting": "Setting"
+  },
+  "home": {
+    "title": "Dashboard",
+    "subtitle": "Overview of your factory operations",
+    "totalDevices": "Total Devices",
+    "activeDevices": "Active Devices",
+    "alerts": "Alerts",
+    "recentActivity": "Recent Activity"
+  },
+  "report": {
+    "title": "Reports",
+    "subtitle": "Comprehensive analytics and insights",
+    "dailyReport": "Daily Report",
+    "weeklyReport": "Weekly Report",
+    "monthlyReport": "Monthly Report",
+    "customReport": "Custom Report"
+  },
+  "devices": {
+    "title": "Devices",
+    "subtitle": "Manage your connected devices",
+    "addDevice": "Add Device",
+    "deviceStatus": "Device Status",
+    "online": "Online",
+    "offline": "Offline",
+    "maintenance": "Maintenance"
+  },
+  "group": {
+    "title": "Groups",
+    "subtitle": "Organize devices into groups",
+    "createGroup": "Create Group",
+    "groupName": "Group Name",
+    "addToGroup": "Add to Group"
+  },
+  "setting": {
+    "title": "Settings",
+    "subtitle": "Customize your app experience",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "security": "Security",
+    "about": "About",
+    "version": "Version",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  }
+}
